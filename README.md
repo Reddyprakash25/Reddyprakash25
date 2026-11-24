@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./banner.svg" alt="Reddy Prakash Raguri — DevOps Engineer" width="100%" />
-</div>
+
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/cbb4a413-4026-4b29-82f1-d80cb6549ea5" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300"><rect width="1200" height="300" rx="8" fill="#0c1c34"/><rect x="2" y="2" width="1196" height="296" rx="8" fill="none" stroke="#38bdf8" stroke-width="2"/><g fill="none" stroke="#39516b" stroke-width="2"><path d="M0 20L160 90 70 160 200 300M0 100L160 90 210 0M0 240L70 160 180 190 200 300M1000 0V60L1080 140H1200M970 300V210L1050 130H1200M1030 300V230L1120 140M1100 0V40L1160 100H1200"/></g><g font-family="Arial,sans-serif" text-anchor="middle"><text x="600" y="116" font-size="56" font-weight="bold" fill="#38bdf8">Reddy Prakash Raguri</text><text x="600" y="169" font-size="32" font-weight="bold" fill="white"> DevOps &amp; Site Reliability Engineering</text><text x="600" y="220" font-size="23" fill="#b1c6db">Cloud · Automation · Infrastructure · DevSecOps</text></g></svg>
 
 # Hi 👋, I'm Reddy Prakash Raguri
 
@@ -21,11 +21,18 @@ DevOps Engineer with 4+ years of experience in multi-cloud infrastructure, CI/CD
 
 **Cloud Platforms**
 
-![Cloud](https://skillicons.dev/icons?i=aws,azure) ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/ibm-cloud/icon.svg" height="48" width="48" alt="IBM Cloud"/>
+</p>
 
 **Containers & CI/CD**
 
-![Tools](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm) ![Tekton](https://img.shields.io/badge/Tekton-2563EB?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,gitlab" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="48" alt="Helm"/>
+  <img src="https://cdn.simpleicons.org/tekton" height="48" alt="Tekton"/>
+</p>
 
 **Infrastructure as Code & Scripting**
 
