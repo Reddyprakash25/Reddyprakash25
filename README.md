@@ -8,7 +8,9 @@ DevOps Engineer with 4+ years of experience in multi-cloud infrastructure, CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/reddyprakash-raguri-9788891a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Reddyprakash25)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Raguri_Reddy_prakash.pdf)
+
+**Resume** : [Raguri_Reddy_prakash.pdf](https://github.com/user-attachments/files/35322662/Raguri_Reddy_prakash.pdf)
+
 
 ## 👨‍💻 About Me
 
